@@ -1,0 +1,7 @@
+{
+  "name": "FlyWire Connectome Lab",
+  "description": "Интерактивный 3D атлас коннектома целого мозга дрозофилы (FlyWire Nature 2024, 139k нейронов), игровой симулятор полета Fly-Pilot, симулятор синаптических цепей и режим испытания реакции «Поймай муху» (Giant Fiber рефлекс).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
